@@ -1,0 +1,15 @@
+#root {
+  min-height: 100vh;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-image: url("/bg.jpg"); /* or your image path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
